@@ -28,7 +28,7 @@ jobs:
         uses: spider-man-tm/kaggle-badges@v1.3.0
         with:
           # Make sure this is indented exactly like this
-          user_name: srivastavaurvashi15
+          user_name: "srivastavaurvashi15"
 
       - name: Commit and Push SVG files
         env:
