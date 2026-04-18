@@ -10,10 +10,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her
 
 # My Kaggle Journey 🚀
-
 <img width="56" height="56" alt="Python Coder" src="https://github.com/user-attachments/assets/bb9483e4-48ca-4c29-9158-54df95c76dfe" >
 Python Coder</img>
-<img width="56" height="56" alt="competitor" src="https://github.com/user-attachments/assets/b6b303ce-8d5c-423c-8378-f8a4802f43f3" >
+<img width="56" height="56" alt="competitor" src="https://github.com/user-attachments/assets/b6b303ce-8d5c-423c-8378-f8a4802f43f3"  >
 Competitor</img>
 
 ---
