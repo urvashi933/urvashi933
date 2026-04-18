@@ -9,6 +9,26 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/urvashi-srivastava-4a9a44320/)
 - 😄 Pronouns: she/her
 
+<!-- <strong>Profile views counter：</strong>&emsp;![Visitor Count](https://profile-counter.glitch.me/spider-man-tm/count.svg) -->
+<!-- ![](profile-3d-contrib/profile-gitblock.svg) -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/spider-man-tm/spider-man-tm/snake-game/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/spider-man-tm/spider-man-tm/snake-game/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/spider-man-tm/spider-man-tm/snake-game/github-contribution-grid-snake.svg">
+</picture>
+
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=spider-man-tm)](https://github.com/ryo-ma/github-profile-trophy)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=spider-man-tm&theme=buefy&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spider-man-tm&theme=buefy" />
+</a> -->
+
+<br />
+
 # My Kaggle Journey 🚀
 
 <table>
